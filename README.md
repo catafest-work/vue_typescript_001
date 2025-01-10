@@ -1,8 +1,8 @@
 # vue_typescript_001
 
-![output browser of this template](vue_typescript_001_template.png)
-
 This template should help get you started developing with Vue 3 in Vite.
+
+![output browser of this template](vue_typescript_001_template.png)
 
 ## Recommended IDE Setup
 
