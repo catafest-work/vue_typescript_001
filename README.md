@@ -4,7 +4,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ![output browser of this template](vue_typescript_001_template.png)
 
-you can write your cypress test , I wrote my own test with *cypress* no other nodejs packages. 
+you can write your cypress test , I wrote my own test with *__cypress__* no other nodejs packages. 
 
 ![output cypress browser of this template](cypress-test_typescript_001.png)
 
